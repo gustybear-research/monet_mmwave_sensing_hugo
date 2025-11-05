@@ -1,7 +1,7 @@
 ---
-title: MONET - Millimeter-Wave Communication and Sensing Integration
+title: mmWave Reflectarrays
 type: facility
-subtype: project
+subtype: testbed
 image:
   filename: facility/monet/monet-featured.png
   # filename_top: facility/monet/monet-top.png
