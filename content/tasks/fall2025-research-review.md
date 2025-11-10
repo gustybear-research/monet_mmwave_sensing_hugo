@@ -2,7 +2,7 @@
 title: "Research Paper Review"
 date: 2025-11-04
 semester: "fall2025"
-due_date: "December 15, 2025"
+due_date: "2025-12-15"
 ---
 
 Review and analyze the latest research papers in reflectarray technology. Prepare a comprehensive summary highlighting key innovations and methodologies.
@@ -10,11 +10,9 @@ Review and analyze the latest research papers in reflectarray technology. Prepar
 <!--more-->
 
 ## Objectives
-- Identify recent advances in reflectarray design
-- Compare different simulation approaches
-- Summarize findings in a 10-page report
-
+- Optimize resource allocation: Find the best way to share resources like power and bandwidth between sensing and communication tasks.
+- Showcase applications: demonstrate ISAC applications in drone detection, physiological sensing, smart RAN, etc.
 ## Deliverables
 - Written report (PDF)
 - Presentation slides (PowerPoint/PDF)
-- Bibliography with at least 15 recent sources
+- Bibliography with at least 10 recent sources

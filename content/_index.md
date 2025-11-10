@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ""
-date: 2022-10-24
+date: 2025-10-24
 type: landing
 
 design:
@@ -15,11 +15,11 @@ sections:
       text: "A UH Manoa ECE VIP Project by Yao Zheng"
       primary_action:
         text: "Request to Join"
-        url: "mailto:yaozheng@hawaii.edu?subject=[MONET VIP] Request to Join MONET&body=Hello Professor Zheng,%0D%0A%0D%0AI would like to request more information on the MONET VIP project, and am wondering if you are accepting new applicants.%0D%0A%0D%0AThank you,%0D%0A"
+        url: "mailto:yaozheng@hawaii.edu?subjecthugo=[MONET VIP] Request to Join MONET&body=Hello Professor Zheng,%0D%0A%0D%0AI would like to request more information on the MONET VIP project, and am wondering if you are accepting new applicants.%0D%0A%0D%0AThank you,%0D%0A"
         icon: "sparkles"
       secondary_action:
         text: "Learn More"
-        url: "/~monet/about"
+        url: "/~vipmonet/about"
       # announcement:
       #   text: "🎉 New features available now!"
       #   link:
